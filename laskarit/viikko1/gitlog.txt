@@ -1,0 +1,122 @@
+commit 804c40e7f7f18ed6b0b47b966d11bd71cfe40160
+Author: Heksaani <heidi.putkuri@hotmail.com>
+Date:   Fri Jun 30 13:43:39 2023 +0300
+
+    harjoitus päättyy
+
+ tiedostoja/file1 | 0
+ tiedostoja/file2 | 0
+ 2 files changed, 0 insertions(+), 0 deletions(-)
+
+commit d3786c18a5336a937a2fa271abd2e84105c8c62d
+Author: Heksaani <heidi.putkuri@hotmail.com>
+Date:   Fri Jun 30 13:42:52 2023 +0300
+
+    file3 muutos
+
+ tiedostoja/file3 | 1 +
+ 1 file changed, 1 insertion(+)
+
+commit 04a53df05c609e537a14d992c00e3541b7f8ab11
+Author: Heksaani <heidi.putkuri@hotmail.com>
+Date:   Fri Jun 30 13:41:31 2023 +0300
+
+    muutokset eka
+
+ eka.txt | 46 ++++++++++++++++++++++++++++++++++++++++++++++
+ 1 file changed, 46 insertions(+)
+
+commit 9751cd730f88109f781f59675f35763093962754
+Author: Heksaani <heidi.putkuri@hotmail.com>
+Date:   Fri Jun 30 13:41:02 2023 +0300
+
+    tiedostoja
+
+ tiedostoja/file1 | 0
+ tiedostoja/file2 | 0
+ tiedostoja/file3 | 0
+ 3 files changed, 0 insertions(+), 0 deletions(-)
+
+commit 27055d491b7926b35fd6e4e2acf839055b000326
+Author: Heksaani <heidi.putkuri@hotmail.com>
+Date:   Fri Jun 30 13:37:16 2023 +0300
+
+    testaus git add -p
+
+ kolmas.txt | 2 +-
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+
+commit 478d7db9a6daefc912500917c0e68f0c0af88b41
+Author: Heksaani <heidi.putkuri@hotmail.com>
+Date:   Fri Jun 30 13:36:09 2023 +0300
+
+    tiedoston uudelleen nimeäminen
+
+ tiedosto.txt | 43 -------------------------------------------
+ 1 file changed, 43 deletions(-)
+
+commit 1dba936975280d94a7f3748e66544e3bb2c15c29
+Author: Heksaani <heidi.putkuri@hotmail.com>
+Date:   Fri Jun 30 13:33:56 2023 +0300
+
+    testi
+
+ tiedosto.txt | 3 +--
+ toinen.txt   | 1 -
+ 2 files changed, 1 insertion(+), 3 deletions(-)
+
+commit e4dd599de240e2bd3081c12c522f91e354172e47
+Author: Heksaani <heidi.putkuri@hotmail.com>
+Date:   Fri Jun 30 13:13:43 2023 +0300
+
+    tekstin lisääminen
+
+ tiedosto.txt | 45 ++++++++++++++++++++++++++++++++++++++++++++-
+ 1 file changed, 44 insertions(+), 1 deletion(-)
+
+commit 61181a7c9c93774de0fe272da538f860b4584dc6
+Author: Heksaani <heidi.putkuri@hotmail.com>
+Date:   Fri Jun 30 13:12:40 2023 +0300
+
+    stuff kansio
+
+ stuff/tiedosto.txt | 0
+ 1 file changed, 0 insertions(+), 0 deletions(-)
+
+commit 6b282c174a867639b17f438e7bc2eeddba9199ec
+Author: Heksaani <heidi.putkuri@hotmail.com>
+Date:   Fri Jun 30 13:12:07 2023 +0300
+
+    muutokset
+
+ kolmas.txt | 1 +
+ toinen.txt | 2 +-
+ 2 files changed, 2 insertions(+), 1 deletion(-)
+
+commit fb99d0e47f30733f021727c07ed99bb613ad44e8
+Author: Heksaani <heidi.putkuri@hotmail.com>
+Date:   Fri Jun 30 13:11:09 2023 +0300
+
+    kolmas lisätty
+
+ kolmas.txt | 0
+ 1 file changed, 0 insertions(+), 0 deletions(-)
+
+commit 2ddacd1bc6730371ab0af285d2f48444b1e12051
+Author: Heksaani <heidi.putkuri@hotmail.com>
+Date:   Fri Jun 30 13:10:13 2023 +0300
+
+    muutos ja lisäys
+
+ tiedosto.txt | 1 +
+ toinen.txt   | 1 +
+ 2 files changed, 2 insertions(+)
+
+commit 4ecfd515634d294c64df38d3b78a4c097b0b74c9
+Author: Heksaani <heidi.putkuri@hotmail.com>
+Date:   Fri Jun 30 13:03:22 2023 +0300
+
+    tiedosto.txt luotu
+
+ tiedosto.txt | 0
+ 1 file changed, 0 insertions(+), 0 deletions(-)
